@@ -16,5 +16,5 @@ You should have R installed on your machine and preferably RStudion as well
 	paste it the path over the existing one on line 10 in the setwd() function
 1. Click run 
 
-## All datasets and information for this exercise is provided by
-#(c) Kirill Eremenko, www.superdatascience.com
+## All datasets and information for this exercise are provided by
+(c) Kirill Eremenko, www.superdatascience.com
